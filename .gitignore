@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# MongoDB data
+mongo-data
+
+# Node modules
+/node_modules
+
+# Bower modules
+public/lib
